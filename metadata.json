@@ -1,0 +1,5 @@
+{
+  "name": "Cria Livro",
+  "description": "Um aplicativo que usa IA para gerar o conteúdo completo de um livro, incluindo capa, sumário, capítulos e ilustrações, e compila tudo em um PDF para download.",
+  "requestFramePermissions": []
+}
